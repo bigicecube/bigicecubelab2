@@ -4,6 +4,6 @@ I believe my research can be improved by comparing more places with big drug iss
 to more recent dates which would be easier to catch changes.
 One thing that was different from my expectations is the word chunks "help" and "Co", which I did not realize that there were many people who are looking forward to others that suffer from drug abuse. I felt it was such a desirable action by paying close attention to the issue.
 
-![word cloud](img\fairfax.PNG)
-![word cloud](img\harlem.PNG)
-![word cloud](img\Seattle.PNG)
+![word cloud](img/fairfax.PNG)
+![word cloud](img/harlem.PNG)
+![word cloud](img/Seattle.PNG)
