@@ -8,6 +8,6 @@ One thing that was different from my expectations is the word chunks "help" and 
 ![word cloud](img/harlem.PNG)
 ![word cloud](img/Seattle.PNG)
 
-[download file](assets/twsearch-result%20(fairfax).csv)
+[download file](https://raw.githubusercontent.com/bigicecube/bigicecubelab2/main/assets/twsearch-result%20(fairfax).csv)
 [download file](assets/twsearch-result%20(harlem).csv)
 [download file](assets/twsearch-result%20(Seattle).csv)
